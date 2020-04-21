@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="400" started-at="2020-03-22T01:50:37Z" finished-at="2020-03-22T01:50:38Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="400" started-at="2020-03-22T01:50:37Z" finished-at="2020-03-22T01:50:38Z">
+      <class name="com.test.rest.api.TestGetMethod">
+        <test-method status="PASS" signature="testGetAll()[pri:0, instance:com.test.rest.api.TestGetMethod@36f6e879]" name="testGetAll" duration-ms="343" started-at="2020-03-22T01:50:37Z" finished-at="2020-03-22T01:50:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAll -->
+        <test-method status="PASS" signature="testGetId()[pri:0, instance:com.test.rest.api.TestGetMethod@36f6e879]" name="testGetId" duration-ms="10" started-at="2020-03-22T01:50:37Z" finished-at="2020-03-22T01:50:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetId -->
+        <test-method status="PASS" signature="testGetPing()[pri:0, instance:com.test.rest.api.TestGetMethod@36f6e879]" name="testGetPing" duration-ms="23" started-at="2020-03-22T01:50:38Z" finished-at="2020-03-22T01:50:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPing -->
+      </class> <!-- com.test.rest.api.TestGetMethod -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

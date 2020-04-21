@@ -1,0 +1,13 @@
+{
+    "BrandName": "Apple",
+    "Features": {
+        "Feature": [
+            "8GB RAM",
+            "1TB Hard Drive"
+            "Screen 15.5 inch"
+            "This is from file"
+        ]
+    },
+    "Id": 880,
+    "LaptopName": "MacBook"
+}
