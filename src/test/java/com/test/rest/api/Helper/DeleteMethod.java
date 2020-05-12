@@ -1,4 +1,4 @@
-package com.test.rest.api;
+package com.test.rest.api.Helper;
 
 public class DeleteMethod {
 

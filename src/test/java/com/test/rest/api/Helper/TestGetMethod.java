@@ -1,4 +1,4 @@
-package com.test.rest.api;
+package com.test.rest.api.Helper;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -11,6 +11,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.test.rest.ResponseBoby;
 import com.test.rest.RestResponse;
+import com.test.rest.api.RestApiHelper;
 
 public class TestGetMethod {
 	

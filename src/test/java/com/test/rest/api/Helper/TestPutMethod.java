@@ -1,4 +1,4 @@
-package com.test.rest.api;
+package com.test.rest.api.Helper;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -15,6 +15,7 @@ import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import com.test.rest.ResponseBoby;
 import com.test.rest.RestResponse;
+import com.test.rest.api.RestApiHelper;
 
 import junit.framework.Assert;
 

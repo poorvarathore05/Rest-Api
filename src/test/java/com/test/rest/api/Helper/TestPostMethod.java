@@ -1,4 +1,4 @@
-package com.test.rest.api;
+package com.test.rest.api.Helper;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -12,6 +12,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.test.rest.ResponseBoby;
 import com.test.rest.RestResponse;
+import com.test.rest.api.RestApiHelper;
 
 import okhttp3.ResponseBody;
 

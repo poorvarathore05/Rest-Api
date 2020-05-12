@@ -1,4 +1,4 @@
-package com.test.rest.api;
+package com.test.rest.api.Helper;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
